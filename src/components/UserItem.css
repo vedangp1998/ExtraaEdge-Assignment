@@ -18,7 +18,7 @@
   padding-right: 80px;
   padding-top: 10px;
   object-fit: contain;
-  background-color: #ebf2ff;
+  background-color: #efefef;
 }
 
 .user-details {
@@ -42,7 +42,7 @@
   display: flex;
   justify-content: space-around;
   padding: 10px 10px;
-  background-color: #ebebeb;
+  background-color: #fafbf8;
   gap: 30px;
 }
 
