@@ -1,0 +1,12 @@
+.Users {
+  width: 100%;
+  max-width: fit-content;
+  list-style: none;
+  margin: 0px;
+  padding: 1rem;
+  gap: 2rem;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
